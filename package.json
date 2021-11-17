@@ -1,0 +1,26 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "dependencies": {
+    "@simonwep/pickr": "^1.8.2",
+    "material-design-icons": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.2",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.6.4",
+    "vue": "^3.2.19",
+    "vue-router": "^4.0.11"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "author": "",
+  "license": "ISC"
+}
