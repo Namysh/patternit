@@ -15,5 +15,6 @@ Patternit is a tool that allows you to generate patterns that can be used as a c
 - Save and load patterns
 - Use custom colors
 - Export your pattern as CSS background-image
+- Left click to draw and right click to undraw
 
 
