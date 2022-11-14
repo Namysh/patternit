@@ -17,6 +17,12 @@ import Editor from '@/components/Editor.vue'
 //   pattern.value = data
 //   console.log(data)
 // }
+
+
+const searchParams = new URLSearchParams(window.location.search);
+if(searchParams.get('ref') === 'undesign') {
+  fetch('https://api.countapi.xyz/hit/b037a711-ef91-4d2f-a0d4-5e5f96917ddd')
+}
 </script>
 
 
